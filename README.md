@@ -1,1 +1,2 @@
 # Ed-financeira
+#Site de educação financeira para as pessoas que buscam informações e que queiram evitar ter grandes dívidas no futuro. Este site foi criado com o intuito de ajudar as pessoas que não tiveram acesso à educação financeira até agora.  Site criado pela aluna Amanda Bombana Pasa com o auxilio da professora Leticia de Mattos e do aluno Pedro Detoni do 1º ano B matutino do Colégio Laranjeiras do Sul-EFM.
